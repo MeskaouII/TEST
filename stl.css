@@ -1,0 +1,61 @@
+
+section{
+    background-color: coral;
+    height: 900px;
+    width:  100%;
+    position: fixed;
+     
+}
+.plan{
+    background-color: rgb(254, 247, 247); 
+    margin-left: 27%;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    color: rgb(12, 11, 11);
+    height: 500px;
+    width: 700px;
+    margin-top: 200px;
+    display: flex;
+    position: relative;
+}
+.des{
+  position: absolute;
+  margin-top:200px;
+  margin-left: 300px;
+}
+.jeux{
+    background-color: blue;
+    position: absolute;
+    display: flex;
+    height: 100px;
+    margin-top: 350px;
+    margin-left: 270px;
+}
+.des img{
+    height: 100px;
+    
+}
+.player{
+    width:50%;
+    text-align: center;
+}
+.player h1{
+    font-size: 40px;
+}
+button{
+  background-color: aqua;
+  border-radius: 1px;
+  font-size: 30px;
+}
+.result{ 
+    font-size: 40px; 
+}
+.score{
+    font-size: 50px;
+}
+#py1{
+    background-color: aqua;
+}
+#py2{
+    background-color: antiquewhite;
+}
